@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cherry_big.ogg-b5bd70c07e0ed3c4834b7ea6ab3a8d86.oggstr"
+
+[deps]
+
+source_file="res://sounds/cherry_big.ogg"
+dest_files=[ "res://.import/cherry_big.ogg-b5bd70c07e0ed3c4834b7ea6ab3a8d86.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

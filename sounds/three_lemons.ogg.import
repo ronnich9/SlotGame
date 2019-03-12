@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/three_lemons.ogg-52a175281255dc0bffc58b287aadd0ca.oggstr"
+
+[deps]
+
+source_file="res://sounds/three_lemons.ogg"
+dest_files=[ "res://.import/three_lemons.ogg-52a175281255dc0bffc58b287aadd0ca.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
